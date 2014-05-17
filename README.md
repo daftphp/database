@@ -1,0 +1,4 @@
+database
+========
+
+A Daft database.
